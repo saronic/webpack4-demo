@@ -3,4 +3,4 @@
 import component from './component';
 
 // fuck();
-document.body.appendChild(component('with index...'));
+document.body.appendChild(component('with indexvvvv'));
